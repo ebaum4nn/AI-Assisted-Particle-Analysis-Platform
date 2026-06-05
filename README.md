@@ -2,13 +2,7 @@
 
 **An auditable, end-to-end pipeline for detecting, measuring, and reporting on particles in microscopy imagery — built for environments where every result has to be explainable.**
 
-<p align="center" width="100%">
-<video src="https://github.com/ebaum4nn/AI-Assisted-Particle-Analysis-Platform/blob/main/EB_AI_Assisted_Particle_Analysis_Platform.mp4" controls></video>
-</p>
-
-> 🎥 **[Demo video below / linked above]** — a full run from image upload through detection, analyst review, and a generated report.
-
-*Status: working proof-of-concept / demonstrator. Not certified for clinical use.*
+[Demo Video Page on BaumannLabs.com](https://baumannlabs.com/ai-assisted-microscopy-particle-analysis-platform/) — a full run from image upload through detection, analyst review, and a generated report.
 
 ---
 
